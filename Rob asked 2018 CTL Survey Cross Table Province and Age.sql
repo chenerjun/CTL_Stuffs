@@ -29,6 +29,13 @@
 ( ) Entre 60 et 69 ans
 ( ) 70 ans ou plus
 
+Hey William,
+
+I hope you are well. I’ve been asked to provide age breakdown by province for our Texting service for the 2018 year. Is this something that you can pull data on from Periscope and send over, similar to what you did with issue + province data for the stats pack earlier this year?
+
+Thx,
+Rob
+
 
 
 ;with CTE as
